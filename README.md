@@ -31,7 +31,7 @@ To ensure data integrity, I followed a rigorous "Full-Stack" Data Analytics work
 
 *Behavioral Safety Rails: Implement a dynamic trade frequency cap for "Inconsistent" segment accounts during Extreme Greed to prevent capital erosion from high-frequency FOMO trading.
 
-**. Setup & How to Run**
+**Setup & How to Run**
 
 ******Prerequisite**s****
 You will need Python installed (I used the Anaconda environment) along with the following libraries:
