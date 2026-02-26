@@ -1,6 +1,8 @@
 # PRIMETRADE-AI-ASSESMENT
 **Technical Project Summary: Behavioral Analysis of 211k+ Trades**
+
 **Project Overview**
+
 This project analyzes the relationship between market sentiment (Fear & Greed Index) and trader performance on the Hyperliquid platform. Using a dataset of 211,218 trade records, I identified behavioral patterns among different trader segments and developed actionable strategies to improve platform retention and liquidity.
 
 **Methodology**
