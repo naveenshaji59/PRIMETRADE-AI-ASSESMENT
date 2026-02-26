@@ -30,3 +30,29 @@ To ensure data integrity, I followed a rigorous "Full-Stack" Data Analytics work
 *The "Fear" Fee Incentive: Reward high-conviction traders with a 15% fee rebate during Fear cycles (Index < 30) to incentivize liquidity when the market is distressed.
 
 *Behavioral Safety Rails: Implement a dynamic trade frequency cap for "Inconsistent" segment accounts during Extreme Greed to prevent capital erosion from high-frequency FOMO trading.
+
+**. Setup & How to Run**
+
+******Prerequisite**s****
+You will need Python installed (I used the Anaconda environment) along with the following libraries:
+
+pandas
+numpy
+**matplotlib
+seaborn
+scikit-learn
+
+**Installation****
+
+**Clone the Repository:**
+git clone https://github.com/your-username/your-repo-name.git
+Install Dependencies:
+**
+**pip install -r requirements.txt****
+
+**Execution**
+*Open the DATATASK1.ipynb file in Jupyter Notebook or VS Code.
+
+*Ensure historical_data.csv and fear_greed_index.csv are in the same directory.
+
+*Run All Cells. The notebook is pre-rendered, so you can also view the charts directly on GitHub.
